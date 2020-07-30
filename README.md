@@ -1,5 +1,5 @@
-# drone-target-detection
-OpenCV project which finds targets from video feed.
+# Drone target detection
+OpenCV project which finds targets from video streams. Possible to be implemented with a live drone video feed.
 
 ## Getting Started
 
